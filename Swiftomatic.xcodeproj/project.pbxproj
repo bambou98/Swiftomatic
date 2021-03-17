@@ -60,9 +60,7 @@
 			children = (
 				A9547E812600ECDB007C8423 /* SwiftomaticApp.swift */,
 				A9547E832600ECDB007C8423 /* ContentView.swift */,
-				F9B07E8A26014FED005559BD /* ConferenceView.swift */,
-				F9B07E842600FBCD005559BD /* ConferenceDetail.swift */,
-				F9B07E872600FE1A005559BD /* ConferenceModel.swift */,
+				F9B07E8F2601F857005559BD /* Conferences */,
 				A9547E852600ECDC007C8423 /* Assets.xcassets */,
 				A9547E8A2600ECDC007C8423 /* Info.plist */,
 				A9547E872600ECDC007C8423 /* Preview Content */,
@@ -76,6 +74,16 @@
 				A9547E882600ECDC007C8423 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		F9B07E8F2601F857005559BD /* Conferences */ = {
+			isa = PBXGroup;
+			children = (
+				F9B07E8A26014FED005559BD /* ConferenceView.swift */,
+				F9B07E842600FBCD005559BD /* ConferenceDetail.swift */,
+				F9B07E872600FE1A005559BD /* ConferenceModel.swift */,
+			);
+			path = Conferences;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
